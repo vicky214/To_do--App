@@ -1,3 +1,4 @@
+This is react based todo list app and i used localstorage to save the app data.It is made by react hooks and context api.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
